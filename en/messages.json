@@ -1,0 +1,31 @@
+{
+    "appName": {
+      "message": "RoSuite - Next Level Roblox",
+      "description": "The title of the extension, displayed in the web store."
+    },
+    "appDesc": {
+      "message": "Taking your Roblox expirence to the next level!",
+      "description": "The description of the extension, displayed in the web store."
+    },
+    "button_changelog": {
+        "message": "Changelog",
+        "description": "A button in the popup.html file"
+    },
+    "button_report_bug": {
+        "message": "Report Bug",
+        "description": "A button in the popup.html file"
+    },
+    "button_suggest": {
+        "message": "Suggest A Feature",
+        "description": "A button in the popup.html file"
+    },
+    "button_buy_subscription": {
+        "message": "Purchase Subscription",
+        "description": "A button in the popup.html file"
+    },
+    "button_manage_subscription": {
+        "message": "Manage Subscription",
+        "description": "A button in the popup.html file"
+    }
+  }
+  
