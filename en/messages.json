@@ -19,13 +19,9 @@
         "message": "Suggest A Feature",
         "description": "A button in the popup.html file"
     },
-    "button_buy_subscription": {
-        "message": "Purchase Subscription",
-        "description": "A button in the popup.html file"
-    },
-    "button_manage_subscription": {
-        "message": "Manage Subscription",
-        "description": "A button in the popup.html file"
+    "page_catalog_countdown": {
+        "message": "Releases in %d days, %h hours, %m minutes, %s seconds!",
+        "description": "The countdown on the UGC item page."
     }
   }
   
