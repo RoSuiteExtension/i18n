@@ -5,7 +5,7 @@ Check Chrome extension docs for more info!
 ### Customizing Language Localization
 Locate the `en` folder in the repository. This folder contains the English language localization files.
 
-Rename the `en` folder to the appropriate language locale you wish to contribute to.
+Rename the `en` folder to the appropriate [language locale](https://www.w3schools.com/tags/ref_language_codes.asp) you wish to contribute to.
 
 Inside the renamed folder, you'll find a `messages.json` file. Open this file using a text editor.
 
