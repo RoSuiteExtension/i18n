@@ -2,6 +2,8 @@
 Community localization for RoSuite
 Check Chrome extension docs for more info!
 ## Contributing
+### Issues
+Please do **NOT** make any issues for RoSuite. I **won't** read them and will just close them. If you want to make a bug report do that in the discord.
 ### Customizing Language Localization
 Locate the `en` folder in the repository. This folder contains the English language localization files.
 
