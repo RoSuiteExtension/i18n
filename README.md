@@ -24,4 +24,4 @@ Provide a descriptive title and additional comments to explain your changes.
 Click on the Create **pull request** button to submit your contribution.
 
 ## Support
-If you encounter any issues or have questions related to the RoSuite extension, please feel free to create an issue in the repository. We will be happy to assist you!
+If you encounter any issues or have questions related to the RoSuite extension, please feel free to ask in the Discord. We will be happy to assist you!
